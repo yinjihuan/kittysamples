@@ -9,23 +9,17 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>kitty-samples-jetcache</artifactId>
+    <artifactId>kitty-samples-async-tool</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>com.cxytiandi</groupId>
-            <artifactId>kitty-spring-cloud-starter-web</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <dependency>
             <groupId>com.cxytiandi</groupId>
-            <artifactId>kitty-spring-cloud-starter-jetcache</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.cxytiandi</groupId>
-            <artifactId>kitty-spring-cloud-starter-cat</artifactId>
+            <artifactId>kitty-spring-cloud-starter-async-tool</artifactId>
         </dependency>
     </dependencies>
-
 </project>

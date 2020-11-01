@@ -17,6 +17,7 @@
         <module>kitty-samples-sentinel</module>
         <module>kitty-samples-jetcache</module>
         <module>kitty-samples-rocketmq</module>
+        <module>kitty-samples-async-tool</module>
     </modules>
 
     <properties>
